@@ -1,7 +1,8 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+
+# Reg. No : 212224040297
+# Name: SARANYA AV
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -47,6 +48,27 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+
+# Prompt:
+
+A highly detailed, ultra-realistic cinematic photography render of a modern BMW M5 sports sedan[cite: 39, 47, 63]. 
+The vehicle features a premium matte black body finish with a glossy paint sheen reflecting its surroundings[cite: 42, 44, 63]. 
+It is positioned in a center-focused, symmetrical framing with an aggressive front-angle perspective[cite: 46, 63]. 
+The car's signature aggressive front grille and sharp, piercing LED headlights are fully illuminated[cite: 43, 63]. 
+It is parked on a slick, wet, rain-soaked asphalt city street at dead of night[cite: 41, 44, 63]. 
+The environment is a dramatic, dark cinematic urban cityscape filled with towering buildings and blurred city lights[cite: 42, 45]. 
+Vibrant neon signs cast sharp blue and red glow reflections across the wet road surface and metallic body panels[cite: 42, 43, 63]. 
+The scene captures complex, high-fidelity light diffusion and intricate reflections bouncing off every surface[cite: 43, 78]. 
+Intricate details are visible on the custom wheel rims, brake calipers, and precise car body geometry[cite: 80, 88]. 
+The atmosphere is moody, realistic, and deeply immersive, resembling a high-end automotive advertisement[cite: 63, 91]. 
+Shot with a premium camera lens showcasing realistic depth of field, sharp focal clarity, and volumetric lighting[cite: 43, 88]. 
+Every texture is meticulously rendered, from the crisp metallic edges to the liquid pooling on the ground[cite: 44, 79]. 
+Masterpiece rendering, ray-traced reflections, hyper-detailed textures, 8K resolution, and unparalleled visual fidelity[cite: 63, 79].
+
+# Output:
+
+[AI_BMW_M5_Report.pdf](https://github.com/user-attachments/files/28047907/AI_BMW_M5_Report.pdf)
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
